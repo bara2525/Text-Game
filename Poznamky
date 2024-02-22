@@ -1,0 +1,70 @@
+U nepřátel by se hodil nějaký enum nebo struct.
+Aby se v souboru Game nemuseli načítat ze struct, ale už byli předem nadefinovaní a jen se načítali z nějakého seznamu.
+
+Podobná situace u lokací.
+
+Setkání s enemy-vybrat volby. Upravit dle toho, jestli tam enemy je, nebo není.
+Prohledávat???
+
+Jak propojit lokace a klíč?
+
+Pokud bude hra více příběhová, samotné dialogy nebo narrative dát do samostatného souboru a opět je n načítat.
+
+
+
+Item:
+-type
+-quantity
+-price
+
+
+...equippable
+
+Item:weapon (melee, ranged)
+Item:shield
+Item:body mod
+
+
+Lokace:
+--rest
+--open inventory
+-
+
+Lokace:ship
+-fly
+-exit ship
+-storage
+-rest:sleep
+
+Charakter
+-health (základ + body mod)
+-shield (z vybavení)
+-attack (základ (pěsti) + z vybavení)
+-inventory
+-nějaké modifiers které se mění (drunk...)
+-energie (doplňuje se spánkem/rest, ubývá časem/bojem...)
+
+další vlastnosti:
+-jméno
+-rasa
+-
+
+
+(později)
+-intelligence
+-aim
+-physique
+-leveling (vylepšení, nějaký dovednostní tree)
+
+
+
+
+
+
+
+
+
+
+
+
+

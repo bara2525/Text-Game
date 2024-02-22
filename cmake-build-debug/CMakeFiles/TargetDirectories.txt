@@ -1,0 +1,3 @@
+C:/Users/Barunka/GIT/ZOOLS_2021/zools2021_xrutarov/game1/cmake-build-debug/CMakeFiles/game1.dir
+C:/Users/Barunka/GIT/ZOOLS_2021/zools2021_xrutarov/game1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Barunka/GIT/ZOOLS_2021/zools2021_xrutarov/game1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
